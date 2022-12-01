@@ -1,0 +1,26 @@
+.col-md-5{
+    margin-top: 150px !important;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+input{
+    display: inline !important;
+    width: 85% !important;
+    
+    border: 2px solid black !important;
+}
+li{
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+    display: inline;
+    margin: 10px;
+}
+i{
+    color: red;
+    margin: 10px;
+}
